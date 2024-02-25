@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.0.1
+
+- Now the DLC with depots are added.
+- Fixed an issue with depots having multiple os.
+
 ## v2.0.0
 
 - The name has been changed to SKSAppManifestGenerator.
