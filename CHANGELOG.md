@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.0.2
+
+- Fixed "KeyError: 'type'" on some appids.
+
 ## v2.0.1
 
 - Now the DLC with depots are added.
